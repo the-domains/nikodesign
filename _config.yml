@@ -11,4 +11,8 @@ color:
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-name: Nikodesign
+name: nikodesign
+navigation:
+  - name: Graphic Design
+    url: 'http://niko4design.com'
+    type: external
